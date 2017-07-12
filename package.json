@@ -1,0 +1,15 @@
+{
+  "name": "babyhistory",
+  "version": "1.0.0",
+  "description": "baby histroy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "baby",
+    "histroy"
+  ],
+  "author": "jianxcao",
+  "license": "MIT"
+}
